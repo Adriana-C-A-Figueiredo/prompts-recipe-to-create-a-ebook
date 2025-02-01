@@ -33,7 +33,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em escrita criativa, listando os principais, metodos de praticar a escrita no dia a dia com exemplos de métodos de escrita que funcionam {REGRAS} Explique sempre de uma maneira simples e organizada Deixe o texto enxuto, sempre deixe um título sugestivo por tópico preferencilamente separado em tópicos |
 
 
-Canva：
+Canva：https://www.canva.com/design/DAGdzUiqFiU/tCRP-5C2JQI4AgsDA_KBoQ/edit?utm_content=DAGdzUiqFiU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 |  Ação  | criação de imagem                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
