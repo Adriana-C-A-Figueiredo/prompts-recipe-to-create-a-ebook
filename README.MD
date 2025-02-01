@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [cANVA](https://www.canva.com/design/)
 
 ## 🧠 Prompts
 
@@ -40,25 +40,25 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema escrita criativa, o ebookk é do nicho escrita e o subnicho é escrita para iniciantes, o título deve ser épico e curto, e tenha uma temática ligada a literatura classica, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em escrita criativa, listando os principais, metodos de praticar a escrita no dia a dia com exemplos de métodos de escrita que funcionam {REGRAS} Explique sempre de uma maneira simples e organizada Deixe o texto enxuto, sempre deixe um título sugestivo por tópico preferencilamente separado em tópicos |
 
 
-Midjourney：
+Canva：
 
-|  Ação  | prompt                                                                                 |
+|  Ação  | criação de imagem                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | caneta de pena com traço |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via canva
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas no próprio canva
+- ebook gerado durante o junto com o professor
 
 ## 🛠️ Instruções de execução
 
@@ -89,4 +89,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Adriana-C-A-Figueiredo](https://github.com/Adriana-C-A-Figueiredo/prompts-recipe-to-create-a-ebook/edit/main/README.MD)
